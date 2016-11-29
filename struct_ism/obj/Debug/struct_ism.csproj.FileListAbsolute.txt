@@ -1,0 +1,6 @@
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\struct_ism\struct_ism\bin\Debug\struct_ism.exe.config
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\struct_ism\struct_ism\bin\Debug\struct_ism.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\struct_ism\struct_ism\bin\Debug\struct_ism.pdb
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\struct_ism\struct_ism\obj\Debug\struct_ism.csprojResolveAssemblyReference.cache
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\struct_ism\struct_ism\obj\Debug\struct_ism.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\struct_ism\struct_ism\obj\Debug\struct_ism.pdb
